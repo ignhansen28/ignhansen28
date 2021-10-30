@@ -4,8 +4,8 @@
 - 🌱 I’m currently having an interest on data analytics
 
 ### My stats
-<img align = "left" width = "48%" src = "https://github-readme-stats.vercel.app/api?username=ignhansen28&show_icons=true&theme=compact" />
-<img align = "left" width = "47%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+<img align = "center" src = "https://github-readme-stats.vercel.app/api?username=ignhansen28&show_icons=true&theme=ayu-mirage" />
+<img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ignhansen28&langs_count=8&layout=default&theme=ayu-mirage"/>
 
 
 ### Language, Tools, and Framework
